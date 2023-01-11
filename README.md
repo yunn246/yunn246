@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Yun
-👩🏻‍💻 Pursuing Master of Science in Big Data Science
+👩🏻‍💻  Master of Science in Big Data Science
 
 
 
